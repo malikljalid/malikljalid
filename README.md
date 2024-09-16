@@ -12,16 +12,16 @@ Feel free to explore my projects. Who knows? You might find some code that speak
 </div>
 
 #### Development
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,py,js,ts,java,rust,bash,ocaml,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,py,java,rust,bash,ocaml,haskell)](https://skillicons.dev)
 
 #### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vercel,svelte,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vercel,svelte,bootstrap,tailwaindcss)](https://skillicons.dev)
 
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=go,graphql,linux,nginx,heroku,spring,maven,kafka)](https://skillicons.dev)
 
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,cassandra,postgres,sqlite,hibernate,prisma,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongodb,cassandra,sqlite,hibernate,prisma,firebase,supabase)](https://skillicons.dev)
 
 #### DevOps
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,redhat,docker,kubernetes)](https://skillicons.dev)
