@@ -18,10 +18,10 @@ Feel free to explore my projects. Who knows? You might find some code that speak
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vercel,svelte,bootstrap)](https://skillicons.dev)
 
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=go,graphql,linux,nginx,heroku,spring,hibernate,maven,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,graphql,linux,nginx,heroku,spring,maven,kafka)](https://skillicons.dev)
 
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,firebase,cassandra,postgres,sqlite,prisma,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,cassandra,postgres,sqlite,hibernate,prisma,firebase,supabase)](https://skillicons.dev)
 
 #### DevOps
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,redhat,docker,kubernetes)](https://skillicons.dev)
