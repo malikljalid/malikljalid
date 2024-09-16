@@ -12,7 +12,7 @@ Feel free to explore my projects. Who knows? You might find some code that speak
 </div>
 
 #### Development
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,java,rust,bash,ocaml,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,go,rust,ocaml,haskell,bash)](https://skillicons.dev)
 
 #### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vercel,svelte,bootstrap,tailwind)](https://skillicons.dev)
