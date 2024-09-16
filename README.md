@@ -15,7 +15,7 @@ Feel free to explore my projects. Who knows? You might find some code that speak
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,go,py,java,rust,bash,ocaml,haskell)](https://skillicons.dev)
 
 #### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vercel,svelte,bootstrap,tailwaindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vercel,svelte,bootstrap,tailwaindcss)](https://skillicons.dev)
 
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=go,graphql,linux,nginx,heroku,spring,maven,kafka)](https://skillicons.dev)
