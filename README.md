@@ -12,22 +12,22 @@ Feel free to explore my projects. Who knows? You might find some code that speak
 </div>
 
 #### Development
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,go,rust,ocaml,haskell,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
 
 #### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vercel,svelte,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,wasm)](https://skillicons.dev)
 
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=go,graphql,linux,nginx,heroku,spring,maven,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 
 #### Databases
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongodb,cassandra,sqlite,hibernate,prisma,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 #### DevOps
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,redhat,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,docker)](https://skillicons.dev)
 
 #### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,notion)](https://skillicons.dev)
 
 When I'm not crafting elegant backend solutions or exploring the vast SaaS landscape, you might find me pondering the perfect database schema or optimizing API responses. Remember, in the world of backend development, every millisecond counts!
 
