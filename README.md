@@ -2,7 +2,7 @@
 
 ### Hello, digital voyager! 👋
 
-You've stumbled upon the GitHub lair of a Backend Developer and SaaS enthusiast. Welcome! As they say, I have an API, and I'm not afraid to use it. 🚀
+You've stumbled upon the GitHub lair of a Backend Developer. Welcome! As they say, I have an API, and I'm not afraid to use it. 🚀
 
 Feel free to explore my projects. Who knows? You might find some code that speaks to your soul or inspires your next groundbreaking idea.
 
@@ -29,6 +29,3 @@ Feel free to explore my projects. Who knows? You might find some code that speak
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,notion)](https://skillicons.dev)
 
-When I'm not crafting elegant backend solutions or exploring the vast SaaS landscape, you might find me pondering the perfect database schema or optimizing API responses. Remember, in the world of backend development, every millisecond counts!
-
-Feel free to reach out if you want to collaborate on a project, discuss the latest tech trends, or debate the merits of different programming paradigms. Let's build something amazing together!
